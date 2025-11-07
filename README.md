@@ -10,6 +10,6 @@ Initate conda environment
 
 Initiate mlflow in the background so terminal still usable
 ```bash
-    mlflow ui --backend-store-ui sqlite:///mlflow.db &
+    mlflow ui --backend-store-uri sqlite:///mlflow.db &
 ```
 

@@ -13,3 +13,7 @@ Initiate mlflow in the background so terminal still usable
     mlflow ui --backend-store-uri sqlite:///mlflow.db &
 ```
 
+Launch Jupyter Notebook
+```bash
+    jupyter notebook
+```

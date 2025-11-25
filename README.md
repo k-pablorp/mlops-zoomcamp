@@ -4,6 +4,7 @@
 
 - [NYC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 - [YouTube course playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
+- [Original course repository](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main)
 
 
 ## Useful commands
